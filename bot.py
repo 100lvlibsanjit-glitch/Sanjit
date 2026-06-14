@@ -32,21 +32,21 @@ PACKAGES = {
         "button": "CHILD P@RN ₹59",
         "price": "₹59",
         "videos": "4000 𝑽𝑰𝑫𝑬𝑶𝑺",
-        "links": "https://t.me/+mVGZjernjvVjOTQ1",
+        "links": "https://t.me/+Sen8M8RRvr5hOTFl",
     },
     "mms": {
         "name": "MMS ONLY",
         "button": "MMS ONLY ₹49",
         "price": "₹49",
         "videos": "3000 𝑽𝑰𝑫𝑬𝑶𝑺",
-        "links": "https://t.me/+Zun6rt3fDsM1Njc1",
+        "links": "https://t.me/+Sen8M8RRvr5hOTFl",
     },
     "viral": {
         "name": "MMS + INSTA VIRAL",
         "button": "MMS + INSTA VIRAL ₹99",
         "price": "₹99",
         "videos": "8000 𝑽𝑰𝑫𝑬𝑶𝑺",
-        "links": "https://t.me/+5oD7J1aGiPM1N2M1",
+        "links": "https://t.me/+Sen8M8RRvr5hOTFl",
     },
     "mix": {
         "name": "MIX ( CHILD P@RN + MMS )",
@@ -60,14 +60,14 @@ PACKAGES = {
         "button": "ACTRESS+HIDDEN CAMERA ₹79",
         "price": "₹79",
         "videos": "2500 𝑽𝑰𝑫𝑬𝑶𝑺",
-        "links": "https://t.me/+glLeZjt1iJ9lZDY1",
+        "links": "https://t.me/+Sen8M8RRvr5hOTFl",
     },
     "ALL 20 GROUPS": {
         "name": "ALL 20 GROUPS",
         "button": "ALL 20 GROUPS ₹259",
         "price": "₹259",
         "videos": "30K 𝑽𝑰𝑫𝑬𝑶𝑺",
-        "links": "https://t.me/addlist/8Uaa5HLfoL1lYTc1",
+        "links": "https://t.me/+Sen8M8RRvr5hOTFl",
     },
 }
 
